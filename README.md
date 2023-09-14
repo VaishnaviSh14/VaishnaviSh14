@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Sharma</h1>
 <h3 align="center">"Tech enthusiast skilled in Java, Python, DSA, system design. Exploring data science, ML, NLP. Committed to excellence in software development."</h3>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavish14" alt="vaishnavish14" /></a> </p>
 
