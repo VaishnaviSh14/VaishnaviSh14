@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Sharma</h1>
-<h3 align="center">"Tech enthusiast skilled in Java, Python, DSA, system design. Exploring data science, ML, NLP. Committed to excellence in software development."</h3>
+<h3 align="center">"I am a tech enthusiast with a deep passion for staying at the forefront of emerging technologies. My expertise lies in Java, which I consider my strongest programming language. In addition to my proficiency in Java, I have a keen interest in cutting-edge technologies, particularly in the field of Machine Learning. I am consistently seeking opportunities to apply my knowledge and skills to solve real-world problems. I am excited to contribute to innovative projects that leverage these technologies."</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="Coding" width="400" src="![Coder](https://github.com/VaishnaviSh14/VaishnaviSh14/assets/123576868/1f88eb96-8057-43a6-91e8-ede50ba77a5f)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavish14" alt="vaishnavish14" /></a> </p>
 
