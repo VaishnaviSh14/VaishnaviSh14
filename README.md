@@ -1,14 +1,17 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Vaishnavi Sharma</h1>
-<h3 align="center">"I am a tech enthusiast with a deep passion for staying at the forefront of emerging technologies. My expertise lies in Java, which I consider my strongest programming language. In addition to my proficiency in Java, I have a keen interest in cutting-edge technologies, particularly in the field of Machine Learning. I am consistently seeking opportunities to apply my knowledge and skills to solve real-world problems. I am excited to contribute to innovative projects that leverage these technologies."</h3>
+<h3 align="center">"I’m a developer exploring the future of automation through Multi-Agent Systems, ML, and LLM-powered tools.
+My work blends classical engineering (Java, Spring, CAP) with modern AI technologies (Gemini, agents, AutoML, EDA automation).
+I enjoy building systems that think, reason, and interact — not just run code.
+Currently working on intelligent data analysis agents, automated workflows, and AI-driven developer tools."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VaishnaviSh14&label=Profile%20views&color=0e75b6&style=flat" alt="VaishnaviSh14" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VaishnaviSh14&theme=dark_dimmed" alt="VaishnaviSh14" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-- 💬 Ask me about **JAVA , PYTHON , MACHINE LEARNING**
+- 🌱 I’m currently learning *GenAI**
+- 💬 Ask me about **JAVA , PYTHON , MACHINE LEARNING, SAP tech, AI, SYSTEM DESIGN**
 - 📫 How to reach me **sharmavaishnavi1403@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/VaishnaviSh14?tab=repositories**
 
